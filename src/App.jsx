@@ -19,7 +19,7 @@ function App() {
     <SmoothScroll>
       <PageTransition>
 
-        <ScrollProgress />
+        <ScrollProgress /> 
         <NavBar />
         <div className="quantum-scene">
           <QuantumSpace />
